@@ -1,4 +1,4 @@
-# exemplos_notificacao
+# Exemplo de Notificação
 
 Exemplo de uso de notificações em Flutter.
 
